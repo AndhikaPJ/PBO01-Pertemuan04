@@ -5,6 +5,10 @@ public class Main {
         int isiGelas = 225;
         int penuh    = 225;
 
+        // Apa yang terjadi jika sedari awal nilai int isiGelas = 225; ?
+        // Akan Melakukan Perulangan karena kondisi isiGelas <= penuh terpenuhi.
+        // Maka hasil akhir isiGelas menjadi 226 karena di increment.
+
         System.out.println("Isi Gelas Sekarang : "+isiGelas+"ml");
         System.out.println("Isi Gelas Ketika Penuh : "+penuh+"ml");
 
