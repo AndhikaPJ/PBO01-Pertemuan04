@@ -1,4 +1,4 @@
-package Perulangan;
+package Perulangan; //Contoh Perulangan While
 
 public class Main {
     public static void main(String[] args) {
